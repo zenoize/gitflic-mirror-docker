@@ -1,0 +1,7 @@
+.idea
+.env
+/redis/data
+/postgres/data
+/gitflic/data
+/gitflic/gitflic.jar
+/runner/runner.jar
